@@ -1,0 +1,22 @@
+{
+    "files.autoSave": "onFocusChange",
+    "files.autoSaveDelay": 1000,
+    "files.trimTrailingWhitespace": true,
+    "files.trimFinalNewlines": true,
+    "files.insertFinalNewline": true,
+    "prettier.configPath": "",
+    "editor.fontFamily": "Monaco, Menlo, 'Courier New', monospace",
+    "editor.fontSize": 12,
+    "editor.quickSuggestions": {
+        "other": "on",
+        "comments": "on",
+        "strings": "on"
+    },
+    "editor.codeActionsOnSave": {
+      "source.fixAll": true,
+      "source.fixAll.eslint": true,
+      "source.organizeImports": true
+    },
+    "explorer.autoReveal": false,
+    "typescript.inlayHints.parameterNames.suppressWhenArgumentMatchesName": true
+}
